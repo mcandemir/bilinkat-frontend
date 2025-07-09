@@ -4,6 +4,6 @@ A comprehensive system design guide for building a URL shortener service in Go. 
 
 ## Live Demo
 
-Visit the landing page: [https://bilinkat-frontend.vercel.app](https://bilink.at)
+Visit the landing page: [https://bilink.at](https://bilink.at)
 
 ---
